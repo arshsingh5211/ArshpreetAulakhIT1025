@@ -24,7 +24,7 @@ Hypertext Transfer Protocol **(HTTP)**, used to transfer data all over the inter
 
 Secure HTTP **(HTTPS)** is an extension of HTTP used for secure communication over a network and is widely used on the Internet. It is encrypted using Transport Layer Security **(TLS)**, formerly called Secure Sockets Layer **(SSL)**, which encrypts an HTTP message prior to transmission and decrypts a message upon arrival. They keys for this symmetric encryption are generated uniquely for each connection and are based on a shared secret negotiated by the server and client before the first byte of data is transmitted. This negotiation is both secure and reliable, meaning attackers cannot access it or modify the communications without being detected.
 
-#### Securinig your Web Browser ####
+#### Securing your Web Browser ####
 
 Securing your web browser prevents numerous computer problems such as malware, spyware, and viruses that can steal your information, slow it down significantly, or make your software vulnerable to attackers in other ways. Without securing your browser, there is an increased chance that clicking links that you are unfamiliar with, going to websites that are not secure, or many other actions could cause your computer to be compromised, exploited, or disabled permanently.
 
@@ -59,3 +59,7 @@ While both HTML and eXtensible Markup Language **(XML)** are used to create web 
 5. **Parameters**: *(result of search)* - A string of characters after the file path that begin with a question mark is the **parameter string**, and it usually is displayed after a search by the user.
 
 6. **Anchor**: *(specific location on a page)* - This tells your browser to scroll or to load a specific part of the page, and it usually begins with a hashtag which operates like a bookmark.
+
+## Conclusion ##
+
+Unit 6 revolved around understanding Internet architecture, how protocols play a part in it, and explaining why it is important to secure your web browser. We were also able to practice creating a simple HTML webpage with CSS while using a relative file path to add an image to the page. While I am currently taking a class dedicated to working with HTML and CSS, this was definitely a nice refresher on the basics. I am excited to see how we close this course in the next couple of weeks as we near the end of the semester.
