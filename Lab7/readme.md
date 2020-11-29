@@ -13,3 +13,11 @@ When I compressed the SVGGraphic file, it went from 746 KB to 546 KB. When I com
 The two methods in the shark class are *swim* and *be_awesome*. Name is the property. The constructor is uused to initialize data, and it is run as soon as n object of a class is instantiated. It is the *_init_* method and will be the first definition of a class. A class is a blueprint or a prototype that you can definite to use to create objects, while an object is the actual instance of the class. To instantiate an object from a class is to create an object using the class as a blueprint. So in the Shark class, the object *sammy* was initialized as an instance of the *Shark()* blueprint.
 
 ### Object-Oriented Concepts ###
+
+An example of a class in a real-world situation could be a drive-thru restaurant that we could label as MyRestaurant, and objects created from this class could be items available to order, customers, cars, and registers. Going back to the shark program, you can match each of the following terms to a description that helps you better understand OOP concepts:
+
+1. **object**: *Sammy*
+2. **class**: *shark*
+3. **abstraction**: *definition of a shark*
+4. **encapsulation**: *swim(self)*
+5. **inheritance**: *a specific type of shark*
