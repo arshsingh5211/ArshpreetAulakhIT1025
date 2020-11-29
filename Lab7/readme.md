@@ -21,3 +21,7 @@ An example of a class in a real-world situation could be a drive-thru restaurant
 3. **abstraction**: *definition of a shark*
 4. **encapsulation**: *swim(self)*
 5. **inheritance**: *a specific type of shark*
+
+## Conclusion ##
+
+I really enjoyed this unit as software engineering is the career I would like to get into after I finish my post-degree certificate. I have used file compression all semester for all of my classes, but understanding how files are compressed and the differences between different types could be helpful in the future. Using Python to understand basic concepts such as classes and objects was a great refresher, and I also learned about how to use property in Python for the first time. Finally, creating a class diagram to understand how it all fits together not only helps me to get acclimated to diagramming simple projects now, it will also be extremely useful when starting out more complex projects in the future.
